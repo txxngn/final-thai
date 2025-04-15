@@ -1,1 +1,2 @@
-# final-thai
+# My Final Repo
+Author: Thai Nguyen
